@@ -2,7 +2,7 @@
 <form action="" class="container mt-5" method="post">
     <div class="form-group">
         <input type="text" placeholder="Firstname" name="name" id="name" class="form-control">
-       
+    
         
         <input type="number" placeholder="Phone Number" name="phone" id="name" class="form-control">
         
